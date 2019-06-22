@@ -1,15 +1,15 @@
-### **<center>LIU NIAN | <font color=#2894FF>JOB HUNTING</font></center>**
+### **<center>LIU NIAN | <font color=blue>JOB HUNTING</font></center>**
 <center>Shanghai, China 201800</center>  
 <center>(+86) 18670375696</center>  
 <center>github.com/heregreat</center>  
 <center>liunian1997@live.com</center>  
 
 
-### **<center><font color=#2894FF>SUM</font>MARY</center>**
+### **<center><font color=#2894FF >SUM</font>MARY</center>**
 
 Work hard on academic areas in software, algorithm. Devoted to cutting-edge technology consisted of Software Engineering, Data Mining, Machine Learning. Apply such technology to solve practice problem in real life. Combined with other knowledge like design, market, management to develop outstanding products. Aim to bring change to society.
 
-### **<center><font color=#2894FF>EDU</font>CATION</center>**
+### **<center><font color=#2894FF >EDU</font>CATION</center>**
 		
 **Concordia University**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada   2019.9 - 2021.7
 
@@ -25,7 +25,7 @@ Bachelor of Computer Science, Technology
 - TOEFL: 95
 
 
-### **<center><font color=#2894FF>WOR</font>K EXPERIENCE</center>**
+### **<center><font color=#2894FF >WOR</font>K EXPERIENCE</center>**
 
 **Xinhua News Future Media Convergence Research Institution**     
 Algorithm Engineer&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Beijing, China    2018.7 - 2019.3
