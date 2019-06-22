@@ -1,15 +1,15 @@
-### **<center>LIU NIAN | <font color=blue>JOB HUNTING</font></center>**
+### **<center>LIU NIAN | <font color=“#2894FF”>JOB HUNTING</font></center>**
 <center>Shanghai, China 201800</center>  
 <center>(+86) 18670375696</center>  
 <center>github.com/heregreat</center>  
 <center>liunian1997@live.com</center>  
 
 
-### **<center><font color=#2894FF >SUM</font>MARY</center>**
+### **<center><font color=“#2894FF” >SUM</font>MARY</center>**
 
 Work hard on academic areas in software, algorithm. Devoted to cutting-edge technology consisted of Software Engineering, Data Mining, Machine Learning. Apply such technology to solve practice problem in real life. Combined with other knowledge like design, market, management to develop outstanding products. Aim to bring change to society.
 
-### **<center><font color=#2894FF >EDU</font>CATION</center>**
+### **<center><font color=“#2894FF” >EDU</font>CATION</center>**
 		
 **Concordia University**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada   2019.9 - 2021.7
 
@@ -25,7 +25,7 @@ Bachelor of Computer Science, Technology
 - TOEFL: 95
 
 
-### **<center><font color=#2894FF >WOR</font>K EXPERIENCE</center>**
+### **<center><font color=“#2894FF” >WOR</font>K EXPERIENCE</center>**
 
 **Xinhua News Future Media Convergence Research Institution**     
 Algorithm Engineer&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Beijing, China    2018.7 - 2019.3
@@ -55,7 +55,7 @@ Algorithm Engineer&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195
 - Use software to put labels on the human skeleton joint points in the picture, and use a cluster analysis algorithm to calculate the distance of each of these joint points to determine different behaviors
 
 
-### **<center><font color=#2894FF>PRO</font>JECT HISTORY</center>**
+### **<center><font color=“#2894FF”>PRO</font>JECT HISTORY</center>**
 
 **UNDERGRADUATE LESSON**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;2014-2018
 
@@ -70,7 +70,7 @@ Algorithm Engineer&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195
 - Information Management System, 			Fall Semester, 2015
 
 
-### **<center><font color=#2894FF>REL</font>EVANT SKILLS</center>**
+### **<center><font color=“#2894FF”>REL</font>EVANT SKILLS</center>**
 
 **Programming**&#8195;&#8195;&#8195;&#8195;&#8195;C++, Java, Python, MATLAB  
 **Languages**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Chinese(native), English
