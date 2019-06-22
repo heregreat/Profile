@@ -1,28 +1,23 @@
-# Profile
-LIU NIAN | JOB HUNTING
-
-Shanghai, China 201800
-
-(+86) 18670375696
-
-github.com/heregreat
-
-liunian1997@live.com
+### **<center>LIU NIAN | <font color=#2894FF>JOB HUNTING</font></center>**
+<center>Shanghai, China 201800</center>
+<center>(+86) 18670375696</center>
+<center>github.com/heregreat</center> 
+<center>liunian1997@live.com</center>
 
 
-# SUMMARY
+### **<center><font color=#2894FF>SUM</font>MARY</center>**
 
 Work hard on academic areas in software, algorithm. Devoted to cutting-edge technology consisted of Software Engineering, Data Mining, Machine Learning. Apply such technology to solve practice problem in real life. Combined with other knowledge like design, market, management to develop outstanding products. Aim to bring change to society.
 
-# EDUCATION
+### **<center><font color=#2894FF>EDU</font>CATION</center>**
 		
-Concordia University				Montreal, Canada   2019.9 - 2021.7
+**Concordia University**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada   2019.9 - 2021.7
 
 Thesis base Master of Computer Science, Software Engineering
 
-Gap Year							China    2018.7 – 2019.8
+**Gap Year**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;China    2018.7 – 2019.8
 
-Hunan University (211, 985) 			Changsha, China    2014.9 - 2018.7
+**Hunan University (211, 985)**&#8195;&#8195;&#8195;&#8195;&#8195;Changsha, China    2014.9 - 2018.7
 
 Bachelor of Computer Science, Technology	
 
@@ -30,10 +25,10 @@ Bachelor of Computer Science, Technology
 - TOEFL: 95
 
 
-# WORK EXPERIENCE
+### **<center><font color=#2894FF>WOR</font>K EXPERIENCE</center>**
 
-### Xinhua News Future Media Convergence Research Institution     
-Algorithm Engineer					Beijing, China    2018.7 - 2019.3
+**Xinhua News Future Media Convergence Research Institution**     
+Algorithm Engineer&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Beijing, China    2018.7 - 2019.3
 
 
 **The Affective Benchmarking of Movies Based on the Physiological Data of Audiences**
@@ -60,9 +55,9 @@ Algorithm Engineer					Beijing, China    2018.7 - 2019.3
 - Use software to put labels on the human skeleton joint points in the picture, and use a cluster analysis algorithm to calculate the distance of each of these joint points to determine different behaviors
 
 
-# PROJECT HISTORY
+### **<center><font color=#2894FF>PRO</font>JECT HISTORY</center>**
 
-### UNDERGRADUATE LESSON                     2014-2018
+**UNDERGRADUATE LESSON**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;2014-2018
 
  - Crawl Samsung mobile phone information from e-commerce website like title, price, battery, etc. (github.com/heregreat/Crawer), 			Personal Project, 2018.3
 
@@ -75,8 +70,7 @@ Algorithm Engineer					Beijing, China    2018.7 - 2019.3
 - Information Management System, 			Fall Semester, 2015
 
 
-# RELEVANT SKILLS
+### **<center><font color=#2894FF>REL</font>EVANT SKILLS</center>**
 
-**Programming**       C++, Java, Python, MATLAB
-
-**Languages**				Chinese(native), English
+**Programming**&#8195;&#8195;&#8195;&#8195;&#8195;C++, Java, Python, MATLAB  
+**Languages**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Chinese(native), English
