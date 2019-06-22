@@ -1,8 +1,8 @@
 ### **<center>LIU NIAN | <font color=#2894FF>JOB HUNTING</font></center>**
-<center>Shanghai, China 201800</center>
-<center>(+86) 18670375696</center>
-<center>github.com/heregreat</center> 
-<center>liunian1997@live.com</center>
+<center>Shanghai, China 201800</center>  
+<center>(+86) 18670375696</center>  
+<center>github.com/heregreat</center>  
+<center>liunian1997@live.com</center>  
 
 
 ### **<center><font color=#2894FF>SUM</font>MARY</center>**
