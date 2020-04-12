@@ -34,24 +34,11 @@ Algorithm Engineer&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195
 
 - Develop algorithms to Monitor the affective benchmarking of movies based on the physiological responses of a real audience collected from Electro Dermal Activity (EDA) sensor.
 
-- Apply several steps to Raw Electro Dermal Activity (EDA) signal like, low-pass filtering, numerical derivation, thresholding, average on every time window, normalize to get the Individual Affective Profile which reflects the audiences’ arousal variations over the time with the movie plots.
-
-- Combine a bunch of IAPs to get the Mean Affective Profile which represents the whole audiences’ reaction to the movies. And use Mann-Whitney-Wilcoxon test to find those who react most.
-
 
 **Detecting Attention During Real-Word Driving Tasks Using Physiological Sensors** 	
 
 - Using unsupervised learning algorithm to divide the intensity of drivers’ attention on broadcast based on the Electro Dermal Activity (EDA) data 
 
-- Divide the Electro Dermal Activity (EDA) data collected from drivers to 5 level and put different labels on these data. And subtract some features from the Electro Dermal Activity (EDA) data to train the model using k-means and other Cluster analysis algorithms.
-
-- Such a method could be used to detect the attention of drivers and provide different media contents to drivers based on the result.
-
-**Detecting Risky Driving Behaviors Using Skeleton Joint Points Analysis**
-
-- Cooperate with a team in Zhejiang University to develop an algorithm which could monitor the risky behaviors of drivers based on the video image, like smoking, one hand on wheels, etc. 
-
-- Use software to put labels on the human skeleton joint points in the picture, and use a cluster analysis algorithm to calculate the distance of each of these joint points to determine different behaviors
 
 
 ### **<center>PROJECT HISTORY</center>**
