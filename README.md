@@ -1,5 +1,5 @@
 ### **<center>LIU NIAN | JOB HUNTING</center>**
-<center>Shanghai, China 201800  </center>  
+<center>Montreal, Canada, H3G 1M8  </center>  
 <center>github.com/heregreat  </center>  
 <center>liunian1997@live.com  </center>  
 
@@ -29,16 +29,18 @@ Bachelor of Computer Science, Technology
 
 Research Assistant&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada 2019.9 -       
 
+- To be Completed
+
 **Xinhua News Future Media Convergence Research Institution**     
 Algorithm Engineer&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Beijing, China    2018.7 - 2019.3
 
 
-**The Affective Benchmarking of Movies Based on the Physiological Data of Audiences**
+*The Affective Benchmarking of Movies Based on the Physiological Data of Audiences*
 
 - Develop algorithms to Monitor the affective benchmarking of movies based on the physiological responses of a real audience collected from Electro Dermal Activity (EDA) sensor.
 
 
-**Detecting Attention During Real-Word Driving Tasks Using Physiological Sensors** 	
+*Detecting Attention During Real-Word Driving Tasks Using Physiological Sensors* 	
 
 - Using unsupervised learning algorithm to divide the intensity of drivers’ attention on broadcast based on the Electro Dermal Activity (EDA) data 
 
@@ -61,5 +63,5 @@ Algorithm Engineer&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195
 
 ### **<center>RELEVANT SKILLS</center>**
 
-**Programming**&#8195;&#8195;&#8195;&#8195;&#8195;C++, Java, Python, MATLAB  
+**Programming**&#8195;&#8195;&#8195;&#8195;&#8195;C++, Java, Python, MATLAB, Ruby  
 **Languages**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Chinese(native), English
