@@ -14,7 +14,6 @@ Work hard on academic areas in software, algorithm. Devoted to cutting-edge tech
 
 Thesis base Master of Computer Science, Software Engineering
 
-**Gap Year**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;China    2018.7 – 2019.8
 
 **Hunan University (211, 985)**&#8195;&#8195;&#8195;&#8195;&#8195;Changsha, China    2014.9 - 2018.7
 
