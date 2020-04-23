@@ -10,12 +10,13 @@ Work hard on academic areas in software, algorithm. Devoted to cutting-edge tech
 
 ### **<center>EDUCATION</center>**
 		
-**Concordia University**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada   2019.9 - 2021.7
+**Concordia University**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada&#8195;&#8195;&#8195;&#8195;2019.9 - 2021.7
 
 Thesis base Master of Computer Science, Software Engineering
 
 
-**Hunan University (211, 985)**&#8195;&#8195;&#8195;&#8195;&#8195;Changsha, China    2014.9 - 2018.7
+**Hunan University (211, 985)**&#8195;&#8195;&#8195;&#8195;&#8195;
+Changsha, China&#8195;&#8195;&#8195;&#8195;2014.9 - 2018.7
 
 Bachelor of Computer Science, Technology	
 
@@ -26,12 +27,12 @@ Bachelor of Computer Science, Technology
 ### **<center>WORK EXPERIENCE</center>**
 **Concordia University**
 
-Research Assistant&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada 2019.9 -       
+Research Assistant&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada&#8195;&#8195;&#8195;&#8195;2019.9 -       
 
 - To be Completed
 
 **Xinhua News Future Media Convergence Research Institution**     
-Algorithm Engineer&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Beijing, China    2018.7 - 2019.3
+Algorithm Engineer&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Beijing, China&#8195;&#8195;&#8195;&#8195;2018.7 - 2019.3
 
 
 *The Affective Benchmarking of Movies Based on the Physiological Data of Audiences*
