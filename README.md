@@ -25,6 +25,9 @@ Bachelor of Computer Science, Technology
 
 
 ### **<center>WORK EXPERIENCE</center>**
+**Concordia University**
+
+Research Assistant&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada 2019.9 -       
 
 **Xinhua News Future Media Convergence Research Institution**     
 Algorithm Engineer&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Beijing, China    2018.7 - 2019.3
