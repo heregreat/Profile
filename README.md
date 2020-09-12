@@ -4,10 +4,6 @@
 <center>liunian1997@live.com  </center>  
 
 
-### **<center>SUMMARY</center>**
-
-Work hard on academic areas in software, algorithm. Devoted to cutting-edge technology consisted of Software Engineering, Data Mining, Machine Learning. Apply such technology to solve practice problems in real life. Combined with other knowledge like design, market, management to develop outstanding products. Aim to bring change to society.
-
 ### **<center>EDUCATION</center>**
 		
 **Concordia University**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada&#8195;&#8195;&#8195;&#8195;2019.9 - 2021.7
