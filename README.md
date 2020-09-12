@@ -1,4 +1,4 @@
-### **<center>LIU NIAN | JOB HUNTING</center>**
+### **<center>NIAN LIU | JOB HUNTING</center>**
 <center>Montreal, Canada, H3G 1M8  </center>  
 <center>github.com/heregreat  </center>  
 <center>liunian1997@live.com  </center>  
