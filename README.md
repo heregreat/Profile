@@ -10,7 +10,7 @@
 
 Thesis base Master of Computer Science, Software Engineering
 
-- GPA: 3.6/4
+- GPA: 3.8/4.3
 
 **Hunan University (211, 985)**&#8195;&#8195;&#8195;&#8195;&#8195;
 Changsha, China&#8195;&#8195;&#8195;&#8195;2014.9 - 2018.7
@@ -18,7 +18,6 @@ Changsha, China&#8195;&#8195;&#8195;&#8195;2014.9 - 2018.7
 Bachelor of Computer Science, Technology	
 
 - GRE: Verbal, 151; Quantitative, 170
-- TOEFL: 95
 
 
 ### **<center>WORK EXPERIENCE</center>**
