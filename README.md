@@ -1,10 +1,8 @@
-### **<center>NIAN LIU | JOB HUNTING</center>**
-<center>Montreal, Canada, H3G 1M8  </center>  
-<center>github.com/heregreat  </center>  
-<center>liunian1997@live.com  </center>  
+### **NIAN LIU**
+Montreal, Canada H3H2J3 - 514-569-7660 -  liunian1997@live.com
 
 
-### **<center>EDUCATION</center>**
+### **EDUCATION**
 		
 **Concordia University**&#8195;&#8195;&#8195;&#8195;   Expected in September 2021 
 
@@ -22,7 +20,7 @@ Changsha, China
 
 
 
-### **<center>EXPERIENCE</center>**
+### **EXPERIENCE**
 Concordia University&#8195;&#8195;&#8195;&#8195;    September 2019 to Current 
 
 **Research Assistant**
@@ -65,16 +63,14 @@ Beijing, China
 
 
 
-### **<center>Coursework</center>**
-
-
+### **Coursework**
 
  - Crawl Samsung mobile phone information from e-commerce website like title, price, battery, etc. (github.com/heregreat/Crawer), 			Personal Project, 2018.3
 
 - Design of Sparse Matrix-Vector Multiplication Algorithm with MapReduce Technology Using FLINK, 			Graduate Project, 2017
 
 
-### **<center>SKILLS</center>**
+### **SKILLS**
 
 - C++, Java, Python, MATLAB, Ruby  
 - Chinese(native), English
