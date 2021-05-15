@@ -6,19 +6,19 @@
 
 ### **<center>EDUCATION</center>**
 		
-**Concordia University**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada&#8195;&#8195;&#8195;&#8195;Expected in September 2021
+**Concordia University**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada&#8195;&#8195;2019.9 - 2021.9
 
 **Master of Science: Computer Science**
 
 - GPA: 3.8/4.3
 
-**Hunan University**&#8195;&#8195;&#8195;&#8195;&#8195;Changsha, China&#8195;&#8195;&#8195;&#8195;July 2018
+**Hunan University**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Changsha, China&#8195;&#8195;2014 - 2018
 
 **Bachelor of Engineering: Computer Science**
 
 
 ### **<center>WORK EXPERIENCE</center>**
-Concordia University&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada&#8195;&#8195;&#8195;&#8195;September 2019 to Current
+Concordia University&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada&#8195;&#8195;2019.9 -
 
 **Research Assistant**
 
@@ -36,7 +36,7 @@ Concordia University&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#81
  - Run JUnit tests before and after commits to evaluate the performance (CPU Time, Memory Usage, and Response Time) difference.
 
 
-Xinhua News Future Media Convergence Research Institution&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Beijing, China&#8195;&#8195;&#8195;&#8195;July 2018 to March 2019
+Xinhua News Future Media Convergence Research Institution&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Beijing, China&#8195;&#8195;2018.7 - 2019.3
 
 **Algorithm Engineer**
 
