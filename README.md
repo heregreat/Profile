@@ -6,47 +6,56 @@
 
 ### **<center>EDUCATION</center>**
 		
-**Concordia University**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada&#8195;&#8195;&#8195;&#8195;2019.9 - 2021.9
+**Concordia University**&#8195;&#8195;&#8195;&#8195;   Expected in September 2021 
 
-Thesis base Master of Computer Science, Software Engineering
+**Master of Science: Computer Science**
+
+Montreal, Canada
 
 - GPA: 3.8/4.3
 
-**Hunan University (211, 985)**&#8195;&#8195;&#8195;&#8195;&#8195;
-Changsha, China&#8195;&#8195;&#8195;&#8195;2014.9 - 2018.7
+**Hunan University**  &#8195;&#8195;&#8195;&#8195;   July 2018 
 
-Bachelor of Computer Science, Technology	
+**Bachelor of Engineering: Computer Science**
 
-- GRE: Verbal, 151; Quantitative, 170
+Changsha, China	
 
 
-### **<center>WORK EXPERIENCE</center>**
-**Concordia University**
 
-Research Assistant&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada&#8195;&#8195;&#8195;&#8195;2019.9 -       
+### **<center>EXPERIENCE</center>**
+Concordia University&#8195;&#8195;&#8195;&#8195;    September 2019 to Current 
+
+**Research Assistant**
+
+Montreal, Canada   
 
 *Characterizing TensorFlow Deprecated Python API: An Empirical Study (Paper in Progress)*
 
 - Did an Empirical study about TensorFlow deprecated APIs. Analyzed 15 TensorFlow releases from TensorFlow 1.5 to the latest version to investigate API deprecation situation and API deprecation reason. 
 
-- Furthermore, we select about 30 popular deep learning models and manually migrated deprecated APIs inside to compare the trained model accuracy difference.
+- Selected 18 popular deep learning models to find the deprecated APIs usage and manually migrate deprecated APIs inside to compare the trained model accuracy difference.
 
-- Our finding could give insight into how deprecated APIs evolved in TensorFlow and help developers understand why APIs become deprecated and the impact on their model if they did not migrate their code timely.
+- Our finding could give insight into how deprecated APIs evolved in TensorFlow and help developers understanding why APIs become deprecated and the impact on their model if they did not migrate their code timely.
 
 *An Empirical Study of the Impact of Architecture Refactoring on Software Performance*
 
-- Investigated 46 architecture refactoring related commits from 3 popular Java framework HBase, Cassandra, Hadoop, and classified them into 4 categories. Run JUnit tests before and after commits to evaluate the performance (CPU Time, Memory Usage, and Response Time) difference.
+- Investigated 46 architecture refactoring related commits from 3 popular Java framework HBase, Cassandra, Hadoop, and classified them into 4 self-defined architecture refactoring categories.
+- Run JUnit tests before and after commits to evaluate the performance (CPU Time, Memory Usage, and Response Time) difference.
 
 
-**Xinhua News Future Media Convergence Research Institution**     
-Algorithm Engineer&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Beijing, China&#8195;&#8195;&#8195;&#8195;2018.7 - 2019.3
+
+Xinhua News Future Media Convergence Research Institution&#8195;&#8195;&#8195;&#8195;July 2018 to March 2019
+
+**Algorithm Engineer**
+
+Beijing, China
 
 
 *The Affective Benchmarking of Movies Based on the Physiological Data of Audiences*
 
-- Implement a paper algorithm independently which monitors the affective benchmarking of movies based on the physiological responses of a real audience collected from Electro Dermal Activity (EDA) sensor.
+- Implemented a paper algorithm independently which monitors the affective benchmarking of movies based on the physiological responses of a real audience collected from Electro Dermal Activity (EDA) sensor.
+- This algorithm could be used to predict movies' box office, help director understanding audiences' emotion and improve the plot later.
 
-- This algorithm could be used to predict movie box office, help director understand audiences’ emotion on the movie and maybe improve the plot later.
 
 
 
@@ -56,16 +65,17 @@ Algorithm Engineer&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195
 
 
 
-### **<center>PROJECT HISTORY</center>**
+### **<center>Coursework</center>**
 
-**UNDERGRADUATE LESSON**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;2014-2018
+
 
  - Crawl Samsung mobile phone information from e-commerce website like title, price, battery, etc. (github.com/heregreat/Crawer), 			Personal Project, 2018.3
 
 - Design of Sparse Matrix-Vector Multiplication Algorithm with MapReduce Technology Using FLINK, 			Graduate Project, 2017
 
 
-### **<center>RELEVANT SKILLS</center>**
+### **<center>SKILLS</center>**
 
-**Programming**&#8195;&#8195;&#8195;&#8195;&#8195;C++, Java, Python, MATLAB, Ruby  
-**Languages**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Chinese(native), English
+- C++, Java, Python, MATLAB, Ruby  
+- Chinese(native), English
+
