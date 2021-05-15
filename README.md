@@ -6,7 +6,7 @@ Montreal, Canada H3H2J3 - 514-569-7660 -  liunian1997@live.com
 
 ### **EDUCATION**
 		
-**Concordia University**&#8195;&#8195;&#8195;&#8195;   Expected in September 2021 
+**Concordia University**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;   Expected in September 2021 
 
 **Master of Science: Computer Science**
 
@@ -14,7 +14,7 @@ Montreal, Canada
 
 - GPA: 3.8/4.3
 
-**Hunan University**  &#8195;&#8195;&#8195;&#8195;   July 2018 
+**Hunan University**  &#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;   July 2018 
 
 **Bachelor of Engineering: Computer Science**
 
@@ -23,7 +23,7 @@ Changsha, China
 
 
 ### **EXPERIENCE**
-Concordia University&#8195;&#8195;&#8195;&#8195;    September 2019 to Current 
+Concordia University&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;    September 2019 to Current 
 
 **Research Assistant**
 
@@ -44,7 +44,7 @@ Montreal, Canada
 
 
 
-Xinhua News Future Media Convergence Research Institution&#8195;&#8195;&#8195;&#8195;July 2018 to March 2019
+Xinhua News Future Media Convergence Research Institution&#8195;&#8195;&#8195;&#8195;&#8195;July 2018 to March 2019
 
 **Algorithm Engineer**
 
