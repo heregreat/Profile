@@ -67,12 +67,11 @@ Beijing, China
 
 ### **Coursework**
 
- - Crawl Samsung mobile phone information from e-commerce website like title, price, battery, etc. (github.com/heregreat/Crawer), 			Personal Project, 2018.3
+ - Crawl Samsung mobile phone information from e-commerce website like title, price, battery, etc.
 
-- Design of Sparse Matrix-Vector Multiplication Algorithm with MapReduce Technology Using FLINK, 			Graduate Project, 2017
+- Design of Sparse Matrix-Vector Multiplication Algorithm with MapReduce Technology Using FLINK.
 
 
 ### **SKILLS**
 
-- C++, Java, Python, MATLAB, Ruby  
-- Chinese(native), English
+- C++, Java, Python, MATLAB, Ruby&#8195;&#8195;Chinese(native), English
