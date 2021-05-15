@@ -6,25 +6,21 @@
 
 ### **<center>EDUCATION</center>**
 		
-**Concordia University**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Expected in September 2021
+**Concordia University**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada&#8195;&#8195;&#8195;&#8195;Expected in September 2021
 
 **Master of Science: Computer Science**
 
-Montreal, Canada
 - GPA: 3.8/4.3
 
-**Hunan University**&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;July 2018
+**Hunan University**&#8195;&#8195;&#8195;&#8195;&#8195;Changsha, China&#8195;&#8195;&#8195;&#8195;July 2018
 
 **Bachelor of Engineering: Computer Science**
 
-Changsha, China
 
 ### **<center>WORK EXPERIENCE</center>**
-Concordia University&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;September 2019 to Current
+Concordia University&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada&#8195;&#8195;&#8195;&#8195;September 2019 to Current
 
 **Research Assistant**
-
-Montreal, Canada
 
 *Characterizing TensorFlow Deprecated Python API: An Empirical Study (Paper in Progress)*
 
@@ -40,23 +36,18 @@ Montreal, Canada
  - Run JUnit tests before and after commits to evaluate the performance (CPU Time, Memory Usage, and Response Time) difference.
 
 
-Xinhua News Future Media Convergence Research Institution&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;July 2018 to March 2019
+Xinhua News Future Media Convergence Research Institution&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Beijing, China&#8195;&#8195;&#8195;&#8195;July 2018 to March 2019
 
 **Algorithm Engineer**
-
-Beijing, China
 
 *The Affective Benchmarking of Movies Based on the Physiological Data of Audiences*
 
  - Implemented a paper algorithm independently which monitors the affective benchmarking of movies based on the physiological responses of a real audience collected from Electro Dermal Activity (EDA) sensor.
  - This algorithm could be used to predict movies' box office, help director understanding audiences' emotion and improve the plot later.
 
-
-
 *Detecting Attention During Real-Word Driving Tasks Using Physiological Sensors* 	
 
 - Using an unsupervised learning algorithm to divide the intensity of drivers' attention on broadcast based on the Electro Dermal Activity (EDA) data. 
-
 
 
 ### **<center>Coursework</center>**
