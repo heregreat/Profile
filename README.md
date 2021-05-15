@@ -1,7 +1,7 @@
-### **NIAN LIU**
+### **<div align = right>NIAN LIU</div>**
 * * *
 * * *
-Montreal, Canada H3H2J3 - 514-569-7660 -  liunian1997@live.com
+<div align = right>Montreal, Canada H3H2J3 - 514-569-7660 -  liunian1997@live.com</div>
 
 
 ### **EDUCATION**
