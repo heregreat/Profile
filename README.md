@@ -1,6 +1,5 @@
 ### **<center>NIAN LIU | JOB HUNTING</center>**
-<center>Montreal, Canada, H3H 2J3  </center>  
-<center>github.com/heregreat  </center>  
+<center>Montreal, Canada, H3H 2J3  </center>   
 <center>liunian1997@live.com  </center>  
 
 
@@ -42,7 +41,7 @@ Xinhua News Future Media Convergence Research Institution&#8195;&#8195;&#8195;&#
 
 *The Affective Benchmarking of Movies Based on the Physiological Data of Audiences*
 
- - Implemented a paper algorithm independently which monitors the affective benchmarking of movies based on the physiological responses of a real audience collected from Electro Dermal Activity (EDA) sensor.
+ - Implemented a paper algorithm independently which consist of some signal analysis method like low-pass filter, moving average, etc, to monitors the affective benchmarking of movies based on the physiological responses of a real audience collected from Electro Dermal Activity (EDA) sensor.
  - This algorithm could be used to predict movies' box office, help director understanding audiences' emotion and improve the plot later.
 
 *Detecting Attention During Real-Word Driving Tasks Using Physiological Sensors* 	
@@ -52,11 +51,12 @@ Xinhua News Future Media Convergence Research Institution&#8195;&#8195;&#8195;&#
 
 ### **<center>Coursework</center>**
 
-- Crawl Samsung mobile phone information from e-commerce website like title, price, battery, etc. (github.com/heregreat/Crawer)
-
- - Design of Sparse Matrix-Vector Multiplication Algorithm with MapReduce Technology Using FLINK
+- Implemented a coverage-guided fuzzer with jupyter notebook to test program bugs.
+- Design of test case to detect four Java bug patterns defined in FindBugs.
+- Implemented one Java project to detect three exception handling anti-patterns.
+- Design of sparse matrix-vector multiplication algorithm with MapReduce technology using FLINK.
 
 
 ### **<center>SKILLS</center>**
 
-- C++, Java, Python, R, MATLAB, MySQL&#8195;&#8195;&#8195;&#8195;Chinese(native), English
+- C++, Java, Python, R, HTML, MATLAB, MySQL&#8195;&#8195;&#8195;&#8195;Chinese(native), English
