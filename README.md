@@ -17,17 +17,19 @@
 
 
 ### **<center>WORK EXPERIENCE</center>**
-Concordia University&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada&#8195;&#8195;2019.9 -
+Concordia University&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada&#8195;&#8195;2019.9 - 2021.9
 
 **Research Assistant**
 
-*Characterizing TensorFlow Deprecated Python API: An Empirical Study (Paper in Progress)*
+*Characterizing Deprecated Deep Learning Python API: An Empirical Study on TensorFlow (Paper in Review)*
 
-- Did an Empirical study about TensorFlow deprecated APIs. Analyzed 15 TensorFlow releases from TensorFlow 1.5 to the latest version to investigate API deprecation situation and API deprecation reason. 
+ - To the best of our knowledge, this is the first empirical study to reveal the current status of deprecated APIs in TensorFlow.
 
- - Selected 18 popular deep learning models to find the deprecated APIs usage and manually migrate deprecated APIs inside to compare the trained model accuracy difference.
+ - Performed the first research discovering the rationale behind deprecated APIs in TensorFlow. We analyzed the deprecation message in 235 deprecated APIs and found 6 API deprecation reasons.
 
- - Our finding could give insight into how deprecated APIs evolved in TensorFlow and help developers understanding why APIs become deprecated and the impact on their model if they did not migrate their code timely.
+ - Automatically uncover deprecated APIs in 12 existing deep learning models, which helps explore developers' reactions to TensorFlow deprecated APIs.
+
+ - Present a quantitative study about the impact of deprecated APIs in deep learning models accuracies.heir model if they did not migrate their code timely.
 
 *An Empirical Study of the Impact of Architecture Refactoring on Software Performance*
 
