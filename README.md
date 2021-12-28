@@ -1,5 +1,5 @@
 ### **<center>NIAN LIU | JOB HUNTING</center>**
-<center>Montreal, Canada, H3H 2J3  </center>   
+<center>Vancouver, Canada, V7A 3P4  </center>   
 <center>liunian1997@live.com  </center>  
 
 
@@ -17,6 +17,12 @@
 
 
 ### **<center>WORK EXPERIENCE</center>**
+Amazon Web Services&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Vancouver, Canada&#8195;&#8195;2019.12 - 
+
+**Software Dev Engineer**
+
+- S3 Index
+
 Concordia University&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Montreal, Canada&#8195;&#8195;2019.9 - 2021.9
 
 **Research Assistant**
@@ -46,9 +52,6 @@ Xinhua News Future Media Convergence Research Institution&#8195;&#8195;&#8195;&#
  - Implemented a paper algorithm independently which consist of some signal analysis method like low-pass filter, moving average, etc, to monitors the affective benchmarking of movies based on the physiological responses of a real audience collected from Electro Dermal Activity (EDA) sensor.
  - This algorithm could be used to predict movies' box office, help director understanding audiences' emotion and improve the plot later.
 
-*Detecting Attention During Real-Word Driving Tasks Using Physiological Sensors* 	
-
-- Using an unsupervised learning algorithm to divide the intensity of drivers' attention on broadcast based on the Electro Dermal Activity (EDA) data. 
 
 
 ### **<center>Coursework</center>**
