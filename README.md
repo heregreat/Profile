@@ -19,7 +19,7 @@
 ### **<center>WORK EXPERIENCE</center>**
 Amazon Web Services&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Vancouver, Canada&#8195;&#8195;2019.12 - 
 
-**Software Dev Engineer**
+**Software Engineer**
 
 - S3 Index
 
