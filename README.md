@@ -35,7 +35,7 @@ Concordia University&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#81
 
  - Automatically uncover deprecated APIs in 12 existing deep learning models, which helps explore developers' reactions to TensorFlow deprecated APIs.
 
- - Present a quantitative study about the impact of deprecated APIs in deep learning models accuracies.heir model if they did not migrate their code timely.
+ - Present a quantitative study about the impact of deprecated APIs in deep learning models accuracies.
 
 *An Empirical Study of the Impact of Architecture Refactoring on Software Performance*
 
@@ -49,7 +49,7 @@ Xinhua News Future Media Convergence Research Institution&#8195;&#8195;&#8195;&#
 
 *The Affective Benchmarking of Movies Based on the Physiological Data of Audiences*
 
- - Implemented a paper algorithm independently which consist of some signal analysis method like low-pass filter, moving average, etc, to monitors the affective benchmarking of movies based on the physiological responses of a real audience collected from Electro Dermal Activity (EDA) sensor.
+ - Implemented an algorithm which monitors the affective benchmarking of movies based on the physiological responses of a real audience collected from Electro Dermal Activity (EDA) sensor.
  - This algorithm could be used to predict movies' box office, help director understanding audiences' emotion and improve the plot later.
 
 
