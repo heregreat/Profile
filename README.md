@@ -45,7 +45,7 @@ Concordia University&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#81
 
 Xinhua News Future Media Convergence Research Institution&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Beijing, China&#8195;&#8195;2018.7 - 2019.3
 
-**Algorithm Engineer**
+**Software Engineer**
 
 *The Affective Benchmarking of Movies Based on the Physiological Data of Audiences*
 
