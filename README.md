@@ -17,7 +17,7 @@
 
 
 ### **<center>WORK EXPERIENCE</center>**
-Amazon Web Services&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Vancouver, Canada&#8195;&#8195;2019.12 - 
+Amazon Web Services&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Vancouver, Canada&#8195;&#8195;2021.12 - 
 
 **Software Engineer**
 
